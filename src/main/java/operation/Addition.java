@@ -3,8 +3,8 @@
  */
 package operation;
 
-public class Multiplication {
-    public int multiply(int a, int b) {
-        return a*b;
+public class Addition {
+    public int add(int a, int b) {
+        return a+b;
     }
 }
